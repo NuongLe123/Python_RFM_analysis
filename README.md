@@ -17,3 +17,5 @@ This is a transnational data set which contains all the transactions occurring b
 - **CustomerID**: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 - **Country**: Country name. Nominal, the name of the country where each customer resides.
 ### Segmentation
+<img width="677" alt="Screenshot_1" src="https://github.com/NuongLe123/RFM_analysis/assets/168357450/75ba6d99-afc1-4977-9ded-cbd752765692">
+
